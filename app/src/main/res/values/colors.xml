@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#043732</color>
+    <color name="colorPrimaryDark">#043732</color>
+    <color name="colorAccent">#388e3c</color>
+    <color name="rateUsBt">#9cd4a9</color>
+
+
+    <!-- Material Design - Color Palette -->
+
+    <!-- http://www.google.com/design/spec/style/color.html#color-color-palette -->
+
+    <!-- Red -->
+    <!-- Red -->
+
+    <!-- Pink -->
+    <!-- Pink -->
+
+    <!-- Purple -->
+    <!-- Purple -->
+
+    <!-- Deep Purple -->
+    <color name="dark_purple_400">#7E57C2</color>
+    <color name="dark_purple_900">#311B92</color>
+    <!-- Deep Purple -->
+
+    <!-- Indigo -->
+    <!-- Indigo -->
+
+    <!-- Blue -->
+    <color name="blue_800">#1565C0</color>
+    <!-- Blue -->
+
+    <!-- Light Blue -->
+    <color name="light_blue_400">#29B6F6</color>
+    <color name="light_blue_500">#03A9F4</color>
+    <color name="light_blue_600">#039BE5</color>
+    <!-- Light Blue -->
+
+    <!-- Cyan -->
+    <!-- Cyan -->
+
+    <!-- Teal -->
+    <!-- Teal -->
+
+    <!-- Green -->
+    <!-- Green -->
+
+    <!-- Light Green -->
+    <!-- Light Green -->
+
+    <!-- Lime -->
+    <!-- Lime -->
+
+    <!-- Yellow -->
+    <!-- Yellow -->
+
+    <!-- Amber -->
+    <!-- Amber -->
+
+    <!-- Orange -->
+    <!-- Orange -->
+
+    <!-- Deep Orange -->
+    <!-- Deep Orange -->
+
+    <!-- Brown -->
+    <!-- Brown -->
+
+    <!-- Grey -->
+    <color name="grey_600">#757575</color>
+    <!-- Grey -->
+
+    <!-- Blue Grey -->
+    <!-- Blue Grey -->
+
+    <!-- Black -->
+    <color name="black">#000000</color>
+    <!-- Black -->
+
+    <!-- White -->
+    <color name="white">#FFFFFF</color>
+    <!-- White -->
+</resources>

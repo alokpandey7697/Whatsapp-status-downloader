@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Activity.SavedGallery"
+    >
+
+    <com.status.alok.Models.ListenableTabLayout
+        android:id="@+id/status_gallery_tabs"
+        android:layout_height="wrap_content"
+        android:elevation="6dp"
+        app:tabIndicatorColor="@null"
+        android:background="#2C97DE"
+        app:tabSelectedTextColor="@color/white"
+        app:tabTextColor="#66000000"
+        android:layout_width="match_parent"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+
+        />
+
+
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/status_gallery_viewPager"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginTop="11dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/status_gallery_tabs"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <com.github.florent37.shapeofview.shapes.TriangleView
+        android:id="@+id/status_triangle"
+        android:layout_width="30dp"
+        android:layout_height="13dp"
+        android:elevation="6dp"
+
+        app:layout_constraintTop_toBottomOf="@+id/status_gallery_tabs">
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#2C97DE" />
+    </com.github.florent37.shapeofview.shapes.TriangleView>
+
+
+</android.support.constraint.ConstraintLayout>

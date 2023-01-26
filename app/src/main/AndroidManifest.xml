@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.status.alok">
+
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/icon"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/icon"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name="com.status.alok.Activity.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity android:name="com.status.alok.Activity.PicDetail" />
+        <activity android:name="com.status.alok.Activity.VideoDetailActivity" />
+
+        <meta-data
+            android:name="io.fabric.ApiKey"
+            android:value="87353cd25208b93e0600de8b8a59d4fec4f30191" />
+
+
+        <activity android:name="com.status.alok.Activity.SavedGallery" />
+        <activity android:name="com.status.alok.Activity.ShowPictureItems" />
+        <activity android:name="com.status.alok.Activity.showVideoItems"></activity>
+    </application>
+
+</manifest>
