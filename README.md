@@ -1,53 +1,26 @@
-# Status-Saver
+You can save status of your friends and then re post it later on.
 
-[![HitCount](http://hits.dwyl.io/ahrar01/GEC-Developers/Status-Saver.svg)](http://hits.dwyl.io/ahrar01/GEC-Developers/Status-Saver)
-
-#### If you like this project and want to support this project development please support us with a little donation.
-#### Please click on the Paypal donate button. Many thanks!
-
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/GECDevs?locale.x=en_GB)
-
-A simple Android Application to download Your contacts Status from whatsapp in a single click.
-This app does not require any internet connection.
-
-<a href="https://play.google.com/store/apps/details?id=com.tripleastudio.whatsappstatussaver" target="_blank">
-<img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" alt="Get it on Google Play" height="90"/></a>
-
-# ScreenShots
-
-<div id ="up" style = "float: left; width: 50%; margin: 5px;">
-<img src="github/pic1.png">
-
-<img src="github/pic2.png">
-</div>
-
-<div id ="down" style = "float: left; width: 50%; margin: 5px;">
-<img src="github/pic3.png">
-
-<img src="github/pic4.png">
-
-</div>
-
-# Library Used
+🏆Status Saver for WhatsApp - Save & Download Status app 🏆 is a dedicated Status saver and Status downloader to download all videos and images from WhatsApp Status. With easy steps, you can download Status videos and Status images to your device and save WhatsApp photos and videos as long as you want. The versatile design of the saved page makes it easy to manage downloaded Status images and videos, share Status videos and photos with your friends, or repost to Status or other social media.
 
 
+Features
 
-# Note
+- No login required, Great Status saver and Status downloader for WhatsApp. No private issues.
+- Free Status downloader and free Status saver
+- Save Status videos and download Status images in easy steps
+- Instant download, Super fast
+- Support downloading all HD video and photo
+- Play videos offline with the built-in video player
+- Review photos offline with the built-in album
+- Easy to share or repost downloaded videos and photos of WhatsApp Status
+- Small size and lightweight
 
-This app does not gather any kind of data, nor it is affilated by whatsapp, this app is created to for Learning Purpose.
+Disclaimer:
+1. Re-uploading image/video stories and is NOT encouraged, please seek owner approval.
+2. Any unauthorized downloading or re-uploading of contents and/or violations of Intellectual property rights is the sole responsibility of the user.
 
-# Contribution
+IMPORTANT
+The "Whatsapp" or "WhatsApp" name is copyright to WhatsApp,inc. This app is in no way affiliated with, sponsored or endorsed by the said company / messenger. We are not responsible for any kind of re-usage of any media downloaded by user.
+Download the Watsapp Update New Version Status Saver & Enjoy the benefits.
 
-<h3> Feel free to contribute </h3>
-
-<i>For contributing just fork your own repository and checkout as a new branch, commit and then create a pull request with explaining the feature you have added or changed you made<i>
-
-
-# Contributors
-
-<ol>
-
-<li> <a href="https://github.com/ahrar01"> ahrar01 </a>      </li>
-<li>  <a href="https://github.com/Rawkush/"> Rawkush</a>     </li>
-
-</ol>
+Get it on Goolge Play store : https://play.google.com/store/apps/details?id=com.status.alok
